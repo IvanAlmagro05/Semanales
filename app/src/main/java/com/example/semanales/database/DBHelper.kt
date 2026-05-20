@@ -1,10 +1,10 @@
-package com.example.semanales.database
+package com.example.ofijaensat.database
 
 import android.content.ContentValues
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
-import com.example.semanales.models.Task
+import com.example.ofijaensat.models.Task
 
 class DBHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME, null, DATABASE_VERSION) {
 

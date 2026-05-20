@@ -1,4 +1,4 @@
-package com.example.semanales.activities
+package com.example.ofijaensat.activities
 
 import android.app.AlertDialog
 import android.app.DatePickerDialog
@@ -22,11 +22,11 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.semanales.R
-import com.example.semanales.adapters.CalendarAdapter
-import com.example.semanales.adapters.TaskAdapter
-import com.example.semanales.database.DBHelper
-import com.example.semanales.models.Task
+import com.example.ofijaensat.R
+import com.example.ofijaensat.adapters.CalendarAdapter
+import com.example.ofijaensat.adapters.TaskAdapter
+import com.example.ofijaensat.database.DBHelper
+import com.example.ofijaensat.models.Task
 import com.google.android.material.card.MaterialCardView
 import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
 import com.google.android.material.textfield.TextInputLayout

@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/ofijaen"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Semanales">
+        android:theme="@style/Theme.OfiJaenSat">
 
         <activity
             android:name=".activities.SplashActivity"

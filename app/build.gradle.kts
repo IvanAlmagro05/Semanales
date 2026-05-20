@@ -3,15 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.semanales"
-    compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
-    }
+    namespace = "com.example.ofijaensat"
+    compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.semanales"
+        applicationId = "com.example.ofijaensat"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

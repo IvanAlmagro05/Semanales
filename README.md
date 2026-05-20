@@ -1,6 +1,6 @@
-# Semanales - Gestor de Tareas y Citas
+# OfiJaenSat - Gestor de Tareas y Citas
 
-**Semanales** es una aplicación de Android diseñada para la gestión organizada de tareas y citas semanales. Ofrece una interfaz intuitiva con vistas de calendario mensual y listados detallados por semana, permitiendo un control total sobre tus responsabilidades diarias.
+**OfiJaenSat** es una aplicación de Android diseñada para la gestión organizada de tareas y citas semanales. Ofrece una interfaz intuitiva con vistas de calendario mensual y listados detallados por semana, permitiendo un control total sobre tus responsabilidades diarias.
 
 ## 🚀 Características principales
 

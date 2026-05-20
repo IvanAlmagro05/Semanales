@@ -1,4 +1,4 @@
-package com.example.semanales.adapters
+package com.example.ofijaensat.adapters
 
 import android.graphics.Color
 import android.graphics.drawable.GradientDrawable
@@ -8,8 +8,8 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.example.semanales.R
-import com.example.semanales.models.Task
+import com.example.ofijaensat.R
+import com.example.ofijaensat.models.Task
 import java.util.*
 
 class CalendarAdapter(

@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Semanales"
+rootProject.name = "OfiJaenSat"
 include(":app")
- 

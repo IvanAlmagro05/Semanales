@@ -1,4 +1,4 @@
-package com.example.semanales.adapters
+package com.example.ofijaensat.adapters
 
 import android.graphics.Color
 import android.graphics.Paint
@@ -10,8 +10,8 @@ import android.widget.ImageButton
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.example.semanales.R
-import com.example.semanales.models.Task
+import com.example.ofijaensat.R
+import com.example.ofijaensat.models.Task
 import com.google.android.material.card.MaterialCardView
 import java.text.SimpleDateFormat
 import java.util.*

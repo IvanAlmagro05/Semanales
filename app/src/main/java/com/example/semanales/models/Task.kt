@@ -1,4 +1,4 @@
-package com.example.semanales.models
+package com.example.ofijaensat.models
 
 data class Task(
     val id: Int? = null,
