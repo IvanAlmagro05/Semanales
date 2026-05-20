@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primaryColor">#0D47A1</color>
+    <color name="primaryLightColor">#5472d3</color>
+    <color name="primaryDarkColor">#002171</color>
+    <color name="secondaryColor">#00ACC1</color>
+
+    <!-- Colores para las tarjetas de tareas -->
+    <color name="taskCardPending">#FFEBEE</color> <!-- Rojo muy claro -->
+    <color name="taskCardCompleted">#E3F2FD</color> <!-- Azul claro muy suave -->
+
+    <!-- Colores para el calendario -->
+    <color name="taskPending">#FFF59D</color> <!-- Amarillo -->
+    <color name="taskCompleted">#A5D6A7</color> <!-- Verde -->
+    <color name="calendarHeaderBackground">#F5F5F5</color>
+</resources>
